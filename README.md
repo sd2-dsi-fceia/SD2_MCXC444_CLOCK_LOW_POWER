@@ -1,6 +1,6 @@
 ## Ejemplo SD2_MCXC444_CLOCK_LOW_POWER - Para la placa MCXC444
 ## Asignatura Sistemas Digitales II - FCEIA - UNR
-## Basado en el ejemplo "MCXC444 Power Mode Switch Application" de la nota de aplicación AN14332
+## Basado en el ejemplo "MCXC444 Power Mode Switch Application" de la nota de aplicación AN14332 de NXP
 Este es un proyecto complementario para [AN14332](https://docs.nxp.com/bundle/AN14332/page/topics/introduction.html), el cual demuestra varios modos de bajo consumo y cambios de reloj de la placa MCXC444 utilizando el display LCD. En el display LCD se muestra el estado actual del modo de consumo. Se utiliza como interfaz para modificar los modos de consumo el puerto UART del MCU y un terminal serie en la PC.
 
 
