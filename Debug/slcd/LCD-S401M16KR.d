@@ -1,0 +1,3 @@
+slcd/LCD-S401M16KR.o slcd/LCD-S401M16KR.d: ../slcd/LCD-S401M16KR.c \
+ ../slcd/LCD-S401M16KR.h
+../slcd/LCD-S401M16KR.h:

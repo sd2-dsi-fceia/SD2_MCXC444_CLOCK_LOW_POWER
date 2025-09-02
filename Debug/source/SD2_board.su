@@ -1,0 +1,9 @@
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_clock.h:437:20:CLOCK_EnableClock	24	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_gpio.h:358:20:GPIO_PortSet	16	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_gpio.h:373:20:GPIO_PortClear	16	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_gpio.h:388:20:GPIO_PortToggle	16	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_gpio.h:411:24:GPIO_PinRead	16	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+../source/SD2_board.c:69:6:board_init	32	static
+../source/SD2_board.c:130:6:board_setLed	16	static
+../source/SD2_board.c:151:6:board_getSw	16	static

@@ -1,0 +1,24 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-mcxc444-power-mode-switch" type="app_note" format="projectfile" versionSchema="1.0.0" name="MCXC444 Power Mode Switch">
+    <display_title>
+        MCXC444 Power Mode Switch Application
+    </display_title>
+    <overview>
+        <![CDATA[TBD]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="mcx"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="FRDM-MCXC444"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="display"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="low_power"></category>
+        <category name="hmi"></category>
+    </categories>
+</data:item>

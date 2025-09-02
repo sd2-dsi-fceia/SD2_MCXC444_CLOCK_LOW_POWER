@@ -1,0 +1,7 @@
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_clock.h:437:20:CLOCK_EnableClock	24	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:35:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:71:6:BOARD_InitLCDPins	8	static
+../board/pin_mux.c:137:6:BOARD_InitDbgUARTPins	8	static
+../board/pin_mux.c:176:6:BOARD_InitWKUPPins	8	static
+../board/pin_mux.c:202:6:BOARD_InitNMIPins	8	static

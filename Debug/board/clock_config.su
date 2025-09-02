@@ -1,0 +1,7 @@
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_clock.h:628:20:CLOCK_SetSimSafeDivs	8	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_clock.h:786:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\Users\Daniel\Downloads\workspace_mcxc444\SD2_MCXC444_CLOCK_LOW_POWER\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:50:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:120:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:200:6:BOARD_BootClockVLPR	8	static
