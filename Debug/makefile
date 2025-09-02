@@ -50,7 +50,7 @@ main-build: SD2_MCXC444_CLOCK_LOW_POWER.axf
 SD2_MCXC444_CLOCK_LOW_POWER.axf: $(OBJS) $(USER_OBJS) makefile $(OPTIONAL_TOOL_DEPS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -Xlinker -Map="SD2_MCXC444_CLOCK_LOW_POWER.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -Xlinker --sort-section=alignment -Xlinker --cref -mcpu=cortex-m0plus -mthumb -T "SD2_MCXC444_CLOCK_LOW_POWER_Debug.ld" -o "SD2_MCXC444_CLOCK_LOW_POWER.axf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -nostdlib -Xlinker -Map="SD2_MCXC444_CLOCK_LOW_POWER.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -Xlinker --sort-section=alignment -Xlinker --cref -mcpu=cortex-m0plus -mthumb -T SD2_MCXC444_CLOCK_LOW_POWER_Debug.ld -o "SD2_MCXC444_CLOCK_LOW_POWER.axf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 

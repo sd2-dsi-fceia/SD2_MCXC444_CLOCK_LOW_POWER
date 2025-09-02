@@ -6,7 +6,7 @@
  * Generated linker script file for MCXC444
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v25.6 [Build 136] [2025-06-27] on 2 sep. 2025 12:26:12
+ * MCUXpresso IDE v25.6 [Build 136] [2025-06-27] on 2 sep. 2025 15:33:45
  */
 
 INCLUDE "SD2_MCXC444_CLOCK_LOW_POWER_Debug_library.ld"
